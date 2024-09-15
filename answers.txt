@@ -1,3 +1,6 @@
 Q1: Why might we consider using git?
 
 Answer: Git is a helpful tool because it enables version tracking, collaboration, and back up/recovery
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Data science can be applied to health care to analyze large volumes of patient data. Data science can predict disease out breaks and personalized treatment options.
