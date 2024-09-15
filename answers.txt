@@ -1,0 +1,3 @@
+Q1: Why might we consider using git?
+
+Answer: Git is a helpful tool because it enables version tracking, collaboration, and back up/recovery
