@@ -5,3 +5,9 @@ Answer: Git is a helpful tool because it enables version tracking, collaboration
 Q2: What field could data science be applied to? Give and Example and how it might help
 
 Answer: Data science can be applied to health care to analyze large volumes of patient data. Data science can predict disease out breaks and personalized treatment options.
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging takes changes from one branch and combines them with changes from another branch. The commit historues are separte, but then you see them merge together.
+Rebasing takes changes from one branch and applies them on top of another branch. It rewrites the commit history by chnaging the current branch to the latets commit of the 
+target branch. This makes a liinear history of commits. 
